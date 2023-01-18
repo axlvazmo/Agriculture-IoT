@@ -10,7 +10,7 @@ const char* ssid     = "XYZ";    // network ssid
 const char* password = "XYZ";      // network password
 
 /* WiFi Global Variable Definitions */
-const char* server_name = "http://192.168.1.206/post-esp-data.php";   // URL for posting data to database
+const char* server_name = "http://XYZ.XYZ.X.XYZ/post-esp-data.php";   // URL for posting data to database
 String api_key_value = "tPmAT5Ab3j7F9";       // key value for database authentication
 
 /* GPIO Global Variable Definitions */
