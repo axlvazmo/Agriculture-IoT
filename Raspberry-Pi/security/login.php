@@ -1,6 +1,6 @@
 <?php
     /* User Password */
-    $password = 'Final22';
+    $password = 'YOUR PASSWORD';
 
     /* Redirects to data display after login */
     $redirect_after_login = 'esp-data.php';

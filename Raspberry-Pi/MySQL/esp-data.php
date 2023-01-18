@@ -8,7 +8,7 @@ require_once 'protect-this.php';
 $servername = "localhost";	// database server name
 $dbname = "esp_data";		// name of database
 $username = "root";		// username
-$password = "Espuelitas792!";	// password
+$password = "YOUR PASSWORD";	// password
 
 /* Creating Connection */
 $conn = new mysqli($servername, $username, $password, $dbname);

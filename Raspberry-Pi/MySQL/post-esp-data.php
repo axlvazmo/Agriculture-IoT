@@ -3,7 +3,7 @@
 $servername = "localhost";
 $dbname = "esp_data";
 $username = "root";
-$password = "Espuelitas792!";
+$password = "YOUR PASSWORD";
 
 $api_key_value = "tPmAT5Ab3j7F9";
 
