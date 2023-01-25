@@ -9,8 +9,17 @@ I also implemented a user authentication security feature to comply with the cha
 - DHT22 Temperature and Humidity Sensor
 
 ## **Software Used :computer:**
-- 
-## **Design :triangular_ruler:**
-- 
+- Arduino IDE
+- phpMyAdmin 
 
+## **Design :triangular_ruler:**
+
+### **ESP32**
+- The ESP32 collects the analog readings from the solar pannel and the DHT22 sensors through some of the GPIO
+ports and converts it to a digital value using ADC (Analog to Digital Conversion).
+- It is also connected to wifisends an HTTP request every 30 seconds for the data to be stored in the database
+hosted in the Raspberry Pi.
+
+### **Raspberry Pi**
+- 
 
