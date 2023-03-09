@@ -31,5 +31,7 @@ The data will not be displayed in the website untill the user enters the correct
 ### **Diagram**
 - The following diagram gives an overview of all the components and the process of the system.
 
+![Alt text](/overview_diagram.png "System Overview Diagram")
+
 ### **Circuit**
 - This is a picture that shows the circuit built on a breadboard.
