@@ -35,3 +35,5 @@ The data will not be displayed in the website untill the user enters the correct
 
 ### **Circuit**
 - This is a picture that shows the circuit built on a breadboard.
+
+![Alt text](/circuit_diagram.png "Circuit Diagram")
