@@ -34,6 +34,6 @@ The data will not be displayed in the website untill the user enters the correct
 ![Alt text](/overview_diagram.png "System Overview Diagram")
 
 ### **Circuit**
-- This is a picture that shows the circuit built on a breadboard.
+- The following picture depicts the circuit built on a breadboard.
 
 ![Alt text](/circuit_diagram.png "Circuit Diagram")
